@@ -33,6 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+It was initially challenging to understand few errors, but after resolving a couple, it became easier
 
 ## License
 
